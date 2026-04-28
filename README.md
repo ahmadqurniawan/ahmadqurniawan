@@ -1,69 +1,125 @@
-# Hi 👋, I'm Ahmad Qurniawan
+<h1 align="center">Hi 👋, I'm Ahmad Qurniawan</h1>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast</h3>
 
-💻 Frontend Developer passionate about building clean and responsive web interfaces
-🚀 Focus on modern JavaScript ecosystem & UI/UX
-
----
-
-## 🌐 Portfolio
-
-🔗 https://your-portfolio-link.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind;Building+Modern+Web+Apps;Open+for+Freelance+Projects" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🔭 Currently building web-based applications
-* 🌱 Learning: Next.js, Backend Integration
-* 🎯 Goal: Become a professional Frontend Engineer & Freelancer
-* ⚡ Love turning ideas into real products
+* 💼 Frontend Developer (Freelance Ready)
+* 🌱 Currently learning: Next.js & Backend Integration
+* 🎯 Focus: Clean UI, Performance, Real-world Apps
+* 📍 Indonesia
+
+---
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-
-* HTML, CSS, JavaScript
-* React, Next.js
-* Tailwind CSS
-
-**Tools**
-
-* Git & GitHub
-* Figma
-* VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,php,mysql,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Website
 
-Modern online shop with cart & checkout system
-🔗 Live Demo: https://...
-📂 Repo: https://...
+<p align="center">
+  <a href="https://your-demo-link.com">
+    <img src="https://your-gif-link.gif" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://your-demo-link.com">🌐 Live Demo</a> • 
+  <a href="https://github.com/username/repo-name">📂 Source Code</a>
+</p>
+
+---
 
 ### 📊 Admin Dashboard
 
-Interactive dashboard with analytics UI
-🔗 Live Demo: https://...
-📂 Repo: https://...
+<p align="center">
+  <a href="https://your-demo-link.com">
+    <img src="https://your-gif-link.gif" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://your-demo-link.com">🌐 Live Demo</a> • 
+  <a href="https://github.com/username/repo-name">📂 Source Code</a>
+</p>
+
+---
 
 ### 🌐 Company Profile Website
 
-Clean and responsive business website
-🔗 Live Demo: https://...
-📂 Repo: https://...
+<p align="center">
+  <a href="https://your-demo-link.com">
+    <img src="https://your-gif-link.gif" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://your-demo-link.com">🌐 Live Demo</a> • 
+  <a href="https://github.com/username/repo-name">📂 Source Code</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadqurniawan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadqurniawan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadqurniawan&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmadqurniawan/ahmadqurniawan/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-* Email: [your@email.com](mailto:your@email.com)
-* LinkedIn: https://linkedin.com/in/...
+<p align="center">
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories and give a star if you like it!*
-
+⭐ *If you like my work, feel free to give a star!*
