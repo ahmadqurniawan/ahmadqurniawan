@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋, I'm Ahmad Qurniawan
 
-<!--
-**ahmadqurniawan/ahmadqurniawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer passionate about building clean and responsive web interfaces
+🚀 Focus on modern JavaScript ecosystem & UI/UX
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+
+🔗 https://your-portfolio-link.com
+
+---
+
+## 🧑‍💻 About Me
+
+* 🔭 Currently building web-based applications
+* 🌱 Learning: Next.js, Backend Integration
+* 🎯 Goal: Become a professional Frontend Engineer & Freelancer
+* ⚡ Love turning ideas into real products
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* HTML, CSS, JavaScript
+* React, Next.js
+* Tailwind CSS
+
+**Tools**
+
+* Git & GitHub
+* Figma
+* VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Website
+
+Modern online shop with cart & checkout system
+🔗 Live Demo: https://...
+📂 Repo: https://...
+
+### 📊 Admin Dashboard
+
+Interactive dashboard with analytics UI
+🔗 Live Demo: https://...
+📂 Repo: https://...
+
+### 🌐 Company Profile Website
+
+Clean and responsive business website
+🔗 Live Demo: https://...
+📂 Repo: https://...
+
+---
+
+## 📫 Contact Me
+
+* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: https://linkedin.com/in/...
+
+---
+
+⭐ *Feel free to explore my repositories and give a star if you like it!*
+
